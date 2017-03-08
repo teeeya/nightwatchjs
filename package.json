@@ -1,0 +1,28 @@
+{
+  "name": "nightwatchjs",
+  "version": "1.0.0",
+  "description": "Automated tests for asos.com using nightwatchjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teeeya/nightwatchjs.git"
+  },
+  "keywords": [
+    "test",
+    "automation",
+    "automated",
+    "tests"
+  ],
+  "author": "Tiya Chowdhury",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teeeya/nightwatchjs/issues"
+  },
+  "homepage": "https://github.com/teeeya/nightwatchjs#readme",
+  "dependencies": {
+    "nightwatch": "^0.9.12"
+  }
+}
